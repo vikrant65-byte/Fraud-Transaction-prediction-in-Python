@@ -1,0 +1,2 @@
+# Fraud-Transaction-prediction-in-Python
+The objective of the project is to train a machine learning algorithm on the dataset to successfully predict fraudulent transactions. We will have a simple dataset of 6-7 columns which we will first process in the given steps: 1) Load Data 2) Explore Data 3) Clean and Filter Data 4) Validate Data 5) Create Model 6) Visualize results  So let dive into the project.
